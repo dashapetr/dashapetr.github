@@ -8,5 +8,9 @@ I never stop learning by taking part in online schools, courses, and workshops. 
 
 # News
 
-- [June 2022] I participated in Oxford Machine Learning Summer School Fundamentals.
-- [June 2022] I took part in HerHackathon BASF challenge.
+- [June 2022] I participated in [Oxford Machine Learning Summer School](https://www.oxfordml.school/) Fundamentals.
+- [June 2022] I took part in [HerHackathon](https://thehackathoncompany.com/herhackathon/) BASF challenge.
+- [February 2022] I participated in AWS Dev Day: Build and Deploy Scalable ML Models with Snowflake and AWS.
+- [January 2022] I took part in [ALPS 2022](https://lig-alps.imag.fr/) / Advanced Language Processing (NLP) Winter School
+- [December 2021] I finished the Pluralsight course [Natural Language Processing with PyTorch](https://www.pluralsight.com/courses/natural-language-processing-pytorch)
+- [November 2021] I got certified: [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)

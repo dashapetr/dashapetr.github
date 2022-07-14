@@ -1,3 +1,6 @@
+[CV](https://github.com/dashapetr/dashapetr.github.io/blob/main/CV.md) [Certificates](https://github.com/dashapetr/dashapetr.github.io/blob/main/certificates.md) [Projects](https://github.com/dashapetr/dashapetr.github.io/blob/main/projects.md) [Activities](https://github.com/dashapetr/dashapetr.github.io/blob/main/activities.md) [Blog posts](https://github.com/dashapetr/dashapetr.github.io/blob/main/blog_posts.md) 
+
+
 # About me
 
 ![Darya Petrashka](https://github.com/dashapetr/dashapetr.github.io/blob/main/Darya_Petrashka_photo.jpg?raw=true)

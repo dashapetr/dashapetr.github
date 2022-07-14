@@ -1,4 +1,4 @@
-[CV](https://github.com/dashapetr/dashapetr.github.io/blob/main/CV.md) [Certificates](https://github.com/dashapetr/dashapetr.github.io/blob/main/certificates.md) [Projects](https://github.com/dashapetr/dashapetr.github.io/blob/main/projects.md) [Activities](https://github.com/dashapetr/dashapetr.github.io/blob/main/activities.md) [Blog posts](https://github.com/dashapetr/dashapetr.github.io/blob/main/blog_posts.md) 
+[CV](https://dashapetr.github.io/CV) [Certificates](https://dashapetr.github.io/certificates) [Projects](https://dashapetr.github.io/projects) [Activities](https://dashapetr.github.io/activities) [Blog posts](https://dashapetr.github.io/blog_posts) 
 
 
 # About me

@@ -1,4 +1,4 @@
-# I am happy to share with you my blog posts.
+# I am happy to share with you my blog posts:
 
 - [AWS SageMaker: How not Spend all Your Money](https://medium.com/@darya_petrashka/aws-sagemaker-how-not-spend-all-your-money-16ea1e3e7255)
 - [AWS Machine Learning Specialty: you can do it!](https://medium.com/@darya_petrashka/aws-machine-learning-specialty-you-can-do-it-e2859b0f0407)
